@@ -1,0 +1,28 @@
+{
+  "name": "burger",
+  "version": "1.0.0",
+  "description": "burgerhw",
+  "main": "server.js",
+  "scripts": {
+    "test": "eat"
+  },
+  "repository": {
+    "type": "git",
+    "url": "lilypad7https://github.com/lilypad7/burger.git"
+  },
+  "keywords": [
+    "hw"
+  ],
+  "author": "Liliana Cortes",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.9",
+    "middleware": "^1.0.0",
+    "mysql": "^2.14.1",
+    "mysql2": "^1.4.2",
+    "sequelize": "^4.11.0"
+  }
+}
